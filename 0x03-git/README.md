@@ -1,4 +1,4 @@
 # holbertonschool-zero_day
-# Understanding Git
+# My First Holberton Project
 ## By: John Garcia
-### Understanding the use of Git
+###This is where the fun begins
